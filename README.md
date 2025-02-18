@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Bidyut7
-- 👀 I’m interested in ... development ,creating impactful things and working with a team 
-- - 🌱 I’m currently learning ...backend development
-- 💞️ I’m looking to collaborate on ...new projects
-- 📫 How to reach me ... email me @shrey7shrey@gmail.com
+<h1 align="center">Hi, I'm Bidyut! 👋</h1>
 
-<!---
-Bidyut7/Bidyut7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bidyut7&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 🚀 About Me  
+🔹 Passionate about **AI, Machine Learning, and Deep Learning**  
+🔹 Solving real-world problems using AI & software development  
+🔹 Always learning new things and experimenting with projects  
+
+## 🛠 Skills  
+- **Programming:** Python, C++, JavaScript  
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn  
+- **Web Development:** Django, Flask, React  
+- **Databases:** PostgreSQL, MongoDB, SQLite  
+- **Tools:** Git, Docker, Linux  
+
+## 📌 Featured Projects  
+🔹 [**Few-Shot Language Agnostic Keyword Spotting**](https://github.com/Bidyut7/FSLAKWS) - A system that detects keywords across languages with minimal data  
+🔹 [**Malware Detection Using Graph Neural Networks**](https://github.com/Bidyut7/GNN-Malware) - Using GNNs to detect malware in milliseconds  
+🔹 [**Intelligent Personal Finance Assistant**](https://github.com/Bidyut7/Finance-AI) - AI-powered personal finance tracker  
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bidyut7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 📫 Connect with Me  
+- 📧 Email: **your-email@example.com**  
+- 🔗 LinkedIn: [linkedin.com/in/bidyut7](https://linkedin.com/in/bidyut7)  
+- 🌐 Portfolio: [bidyut7.dev](https://your-portfolio-link.com)  
+
+✨ **Let's build amazing things together!** 🚀
