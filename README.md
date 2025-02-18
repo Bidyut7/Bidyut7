@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: **shrey1547@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/bidyut7]([https://linkedin.com/in/bidyut7](https://www.linkedin.com/in/shrey-sharma-8a9425269/))  
-- 🌐 Kaggle: [Shrey Kaggle]([https://your-portfolio-link.com](https://www.kaggle.com/shreysharma07))  
+- 🔗 LinkedIn: [linkedin.com/in/Shrey]([https://www.linkedin.com/in/shrey-sharma-8a9425269/])  
+- 🌐 Kaggle: [Shrey.Kaggle]([https://www.kaggle.com/shreysharma07])  
 
 ✨ **Let's build amazing things together!** 🚀
