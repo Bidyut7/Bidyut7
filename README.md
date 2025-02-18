@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bidyut! 👋</h1>
+<h1 align="center">Hi, I'm Shrey! 👋</h1>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bidyut7&theme=tokyonight" alt="GitHub Streak" />
