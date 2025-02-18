@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Shrey! 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Shrey! 👋
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bidyut7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600px" alt="AI GIF"/>
 </p>
 
 ## 🚀 About Me  
@@ -10,16 +13,16 @@
 🔹 Always learning new things and experimenting with projects  
 
 ## 🛠 Skills  
-- **Programming:** Python, C++, JavaScript  
+- **Programming:** Python, Java 
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn  
 - **Web Development:** Django, Flask, React  
-- **Databases:** PostgreSQL, MongoDB, SQLite  
+- **Databases:** MySQL, SQLite  
 - **Tools:** Git, Docker, Linux  
 
 ## 📌 Featured Projects  
-🔹 [**Few-Shot Language Agnostic Keyword Spotting**](https://github.com/Bidyut7/FSLAKWS) - A system that detects keywords across languages with minimal data  
-🔹 [**Malware Detection Using Graph Neural Networks**](https://github.com/Bidyut7/GNN-Malware) - Using GNNs to detect malware in milliseconds  
-🔹 [**Intelligent Personal Finance Assistant**](https://github.com/Bidyut7/Finance-AI) - AI-powered personal finance tracker  
+🔹 [**Skin Cancer Detection Using CNN**]([https://github.com/Bidyut7/FSLAKWS](https://github.com/Bidyut7/skin-disease-detection)) - Detecting Skin Cancer type using Ham10000 Dataset using CNN achieving accuracy of 77% on test set. 
+<!--🔹 [**Malware Detection Using Graph Neural Networks**](https://github.com/Bidyut7/GNN-Malware) - Using GNNs to detect malware in milliseconds -->
+<!--🔹 [**Intelligent Personal Finance Assistant**](https://github.com/Bidyut7/Finance-AI) - AI-powered personal finance tracker -->
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -27,8 +30,8 @@
 </p>
 
 ## 📫 Connect with Me  
-- 📧 Email: **your-email@example.com**  
-- 🔗 LinkedIn: [linkedin.com/in/bidyut7](https://linkedin.com/in/bidyut7)  
-- 🌐 Portfolio: [bidyut7.dev](https://your-portfolio-link.com)  
+- 📧 Email: **shrey1547@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/bidyut7]([https://linkedin.com/in/bidyut7](https://www.linkedin.com/in/shrey-sharma-8a9425269/))  
+- 🌐 Kaggle: [Shrey Kaggle]([https://your-portfolio-link.com](https://www.kaggle.com/shreysharma07))  
 
 ✨ **Let's build amazing things together!** 🚀
